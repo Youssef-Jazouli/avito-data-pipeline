@@ -1,0 +1,193 @@
+2026-05-04 21:22:12,254 - INFO - [Scraping] Starting (attempt 2)
+2026-05-04 21:22:12,254 - ERROR - [Scraping] Failed attempt 2: maximum recursion depth exceeded
+2026-05-04 21:22:17,255 - INFO - [Scraping] Starting (attempt 3)
+2026-05-04 21:22:17,256 - ERROR - [Scraping] Failed attempt 3: maximum recursion depth exceeded
+2026-05-04 21:22:17,257 - CRITICAL - [Scraping] All 3 attempts failed. Stopping pipeline.
+2026-05-04 21:25:11,942 - INFO - [Scraping] Starting (attempt 1)
+2026-05-04 21:25:16,152 - INFO - Scraping page 1
+2026-05-04 21:25:27,994 - INFO - Page 1: 38 ads extracted.
+2026-05-04 21:25:41,110 - INFO - Scraping page 2
+2026-05-04 21:25:49,484 - INFO - Page 2: 36 ads extracted.
+2026-05-04 21:25:54,168 - INFO - Scraping page 3
+2026-05-04 21:26:03,032 - INFO - Page 3: 37 ads extracted.
+2026-05-04 21:26:11,446 - INFO - Scraping page 4
+2026-05-04 21:26:21,092 - INFO - Page 4: 38 ads extracted.
+2026-05-04 21:26:26,489 - INFO - Scraping page 5
+2026-05-04 21:26:34,405 - INFO - Page 5: 38 ads extracted.
+2026-05-04 21:26:40,328 - INFO - Scraping page 6
+2026-05-04 21:26:47,575 - INFO - Page 6: 36 ads extracted.
+2026-05-04 21:26:53,863 - INFO - Scraping page 7
+2026-05-04 21:27:02,394 - INFO - Page 7: 37 ads extracted.
+2026-05-04 21:27:06,939 - INFO - Scraping page 8
+2026-05-04 21:27:14,797 - INFO - Page 8: 35 ads extracted.
+2026-05-04 21:27:25,368 - INFO - Scraping page 9
+2026-05-04 21:27:33,353 - INFO - Page 9: 35 ads extracted.
+2026-05-04 21:27:38,483 - INFO - Scraping page 10
+2026-05-04 21:27:46,286 - INFO - Page 10: 35 ads extracted.
+2026-05-04 21:27:50,571 - INFO - Scraping page 11
+2026-05-04 21:27:58,136 - INFO - Page 11: 34 ads extracted.
+2026-05-04 21:28:02,739 - INFO - Scraping page 12
+2026-05-04 21:28:10,487 - INFO - Page 12: 34 ads extracted.
+2026-05-04 21:28:14,919 - INFO - Scraping page 13
+2026-05-04 21:28:22,501 - INFO - Page 13: 34 ads extracted.
+2026-05-04 21:28:26,683 - INFO - Scraping page 14
+2026-05-04 21:28:34,452 - INFO - Page 14: 34 ads extracted.
+2026-05-04 21:28:39,255 - INFO - Scraping page 15
+2026-05-04 21:28:46,574 - INFO - Page 15: 34 ads extracted.
+2026-05-04 21:28:50,970 - INFO - Scraping page 16
+2026-05-04 21:28:57,860 - INFO - Page 16: 35 ads extracted.
+2026-05-04 21:29:03,498 - INFO - Scraping page 17
+2026-05-04 21:29:11,107 - INFO - Page 17: 31 ads extracted.
+2026-05-04 21:29:15,850 - INFO - Scraping page 18
+2026-05-04 21:29:23,562 - INFO - Page 18: 35 ads extracted.
+2026-05-04 21:29:27,792 - INFO - Scraping page 19
+2026-05-04 21:29:36,852 - INFO - Page 19: 35 ads extracted.
+2026-05-04 21:29:41,171 - INFO - Scraping page 20
+2026-05-04 21:29:49,000 - INFO - Page 20: 35 ads extracted.
+2026-05-04 21:29:53,240 - INFO - Scraping page 21
+2026-05-04 21:30:01,121 - INFO - Page 21: 33 ads extracted.
+2026-05-04 21:30:05,655 - INFO - Scraping page 22
+2026-05-04 21:30:13,323 - INFO - Page 22: 32 ads extracted.
+2026-05-04 21:30:18,258 - INFO - Scraping page 23
+2026-05-04 21:30:25,696 - INFO - Page 23: 34 ads extracted.
+2026-05-04 21:30:31,216 - INFO - Scraping page 24
+2026-05-04 21:30:39,238 - INFO - Page 24: 36 ads extracted.
+2026-05-04 21:30:44,404 - INFO - Scraping page 25
+2026-05-04 21:30:52,427 - INFO - Page 25: 33 ads extracted.
+2026-05-04 21:30:59,628 - INFO - Scraping page 26
+2026-05-04 21:31:07,065 - INFO - Page 26: 31 ads extracted.
+2026-05-04 21:31:12,634 - INFO - Scraping page 27
+2026-05-04 21:31:20,174 - INFO - Page 27: 35 ads extracted.
+2026-05-04 21:31:24,336 - INFO - Scraping page 28
+2026-05-04 21:31:31,864 - INFO - Page 28: 35 ads extracted.
+2026-05-04 21:31:37,492 - INFO - Scraping page 29
+2026-05-04 21:31:45,129 - INFO - Page 29: 35 ads extracted.
+2026-05-04 21:31:49,349 - INFO - Scraping page 30
+2026-05-04 21:31:57,002 - INFO - Page 30: 35 ads extracted.
+2026-05-04 21:32:01,382 - INFO - Scraping page 31
+2026-05-04 21:32:09,203 - INFO - Page 31: 35 ads extracted.
+2026-05-04 21:32:13,251 - INFO - Scraping page 32
+2026-05-04 21:32:21,013 - INFO - Page 32: 35 ads extracted.
+2026-05-04 21:32:25,446 - INFO - Scraping page 33
+2026-05-04 21:32:32,606 - INFO - Page 33: 35 ads extracted.
+2026-05-04 21:32:37,717 - INFO - Scraping page 34
+2026-05-04 21:32:44,795 - INFO - Page 34: 35 ads extracted.
+2026-05-04 21:32:49,127 - INFO - Scraping page 35
+2026-05-04 21:32:57,331 - INFO - Page 35: 35 ads extracted.
+2026-05-04 21:33:02,009 - INFO - Scraping page 36
+2026-05-04 21:33:10,386 - INFO - Page 36: 35 ads extracted.
+2026-05-04 21:33:14,755 - INFO - Scraping page 37
+2026-05-04 21:33:22,442 - INFO - Page 37: 35 ads extracted.
+2026-05-04 21:33:26,551 - INFO - Scraping page 38
+2026-05-04 21:33:34,137 - INFO - Page 38: 35 ads extracted.
+2026-05-04 21:33:38,501 - INFO - Scraping page 39
+2026-05-04 21:33:45,887 - INFO - Page 39: 35 ads extracted.
+2026-05-04 21:33:50,616 - INFO - Scraping page 40
+2026-05-04 21:33:58,755 - INFO - Page 40: 35 ads extracted.
+2026-05-04 21:34:03,418 - INFO - Scraping done. Total: 1395 rows
+2026-05-04 21:34:03,420 - INFO - [Scraping] Done.
+2026-05-04 21:34:03,421 - INFO - [Staging] Starting (attempt 1)
+2026-05-04 21:34:03,968 - INFO - Staging: 1395 inserted, 0 skipped
+2026-05-04 21:34:03,969 - INFO - [Staging] Done.
+2026-05-04 21:34:03,969 - INFO - [Cleaning] Starting (attempt 1)
+2026-05-04 21:34:04,502 - INFO - Clean: 1383 inserted, 12 skipped
+2026-05-04 21:34:04,503 - INFO - [Cleaning] Done.
+2026-05-04 21:34:04,504 - INFO - [Warehouse] Starting (attempt 1)
+2026-05-04 21:34:06,032 - INFO - Staging cleared.
+2026-05-04 21:34:06,042 - INFO - Warehouse load complete.
+2026-05-04 21:34:06,043 - INFO - [Warehouse] Done.
+2026-05-04 21:34:06,043 - INFO - Pipeline completed successfully.
+2026-05-07 14:23:31,166 - INFO - [Scraping] Starting (attempt 1)
+2026-05-07 14:23:45,299 - INFO - Scraping page 1
+2026-05-07 14:23:51,422 - INFO - Page 1: 38 ads extracted.
+2026-05-07 14:23:57,883 - INFO - Scraping page 2
+2026-05-07 14:24:03,646 - INFO - Page 2: 37 ads extracted.
+2026-05-07 14:24:08,837 - INFO - Scraping page 3
+2026-05-07 14:24:14,742 - INFO - Page 3: 37 ads extracted.
+2026-05-07 14:24:20,191 - INFO - Scraping page 4
+2026-05-07 14:24:25,897 - INFO - Page 4: 37 ads extracted.
+2026-05-07 14:24:30,917 - INFO - Scraping page 5
+2026-05-07 14:24:36,734 - INFO - Page 5: 38 ads extracted.
+2026-05-07 14:24:40,831 - INFO - Scraping page 6
+2026-05-07 14:24:46,532 - INFO - Page 6: 34 ads extracted.
+2026-05-07 14:24:51,414 - INFO - Scraping page 7
+2026-05-07 14:24:57,278 - INFO - Page 7: 36 ads extracted.
+2026-05-07 14:25:01,901 - INFO - Scraping page 8
+2026-05-07 14:25:07,631 - INFO - Page 8: 36 ads extracted.
+2026-05-07 14:25:11,822 - INFO - Scraping page 9
+2026-05-07 14:25:17,584 - INFO - Page 9: 35 ads extracted.
+2026-05-07 14:25:21,539 - INFO - Scraping page 10
+2026-05-07 14:25:27,161 - INFO - Page 10: 33 ads extracted.
+2026-05-07 14:25:31,135 - INFO - Scraping page 11
+2026-05-07 14:25:37,068 - INFO - Page 11: 36 ads extracted.
+2026-05-07 14:25:44,117 - INFO - Scraping page 12
+2026-05-07 14:25:49,933 - INFO - Page 12: 34 ads extracted.
+2026-05-07 14:25:55,399 - INFO - Scraping page 13
+2026-05-07 14:26:01,326 - INFO - Page 13: 34 ads extracted.
+2026-05-07 14:26:06,712 - INFO - Scraping page 14
+2026-05-07 14:26:12,493 - INFO - Page 14: 36 ads extracted.
+2026-05-07 14:26:19,070 - INFO - Scraping page 15
+2026-05-07 14:26:24,566 - INFO - Page 15: 33 ads extracted.
+2026-05-07 14:26:29,964 - INFO - Scraping page 16
+2026-05-07 14:26:35,717 - INFO - Page 16: 34 ads extracted.
+2026-05-07 14:26:41,367 - INFO - Scraping page 17
+2026-05-07 14:26:46,796 - INFO - Page 17: 33 ads extracted.
+2026-05-07 14:26:52,273 - INFO - Scraping page 18
+2026-05-07 14:26:57,963 - INFO - Page 18: 34 ads extracted.
+2026-05-07 14:27:02,815 - INFO - Scraping page 19
+2026-05-07 14:27:08,639 - INFO - Page 19: 35 ads extracted.
+2026-05-07 14:27:13,693 - INFO - Scraping page 20
+2026-05-07 14:27:19,350 - INFO - Page 20: 37 ads extracted.
+2026-05-07 14:27:26,745 - INFO - Scraping page 21
+2026-05-07 14:27:32,296 - INFO - Page 21: 32 ads extracted.
+2026-05-07 14:27:36,335 - INFO - Scraping page 22
+2026-05-07 14:27:42,121 - INFO - Page 22: 35 ads extracted.
+2026-05-07 14:27:48,435 - INFO - Scraping page 23
+2026-05-07 14:27:53,981 - INFO - Page 23: 32 ads extracted.
+2026-05-07 14:27:58,768 - INFO - Scraping page 24
+2026-05-07 14:28:04,419 - INFO - Page 24: 34 ads extracted.
+2026-05-07 14:28:09,976 - INFO - Scraping page 25
+2026-05-07 14:28:15,408 - INFO - Page 25: 29 ads extracted.
+2026-05-07 14:28:20,886 - INFO - Scraping page 26
+2026-05-07 14:28:26,554 - INFO - Page 26: 35 ads extracted.
+2026-05-07 14:28:32,397 - INFO - Scraping page 27
+2026-05-07 14:28:38,021 - INFO - Page 27: 35 ads extracted.
+2026-05-07 14:28:43,577 - INFO - Scraping page 28
+2026-05-07 14:28:49,096 - INFO - Page 28: 35 ads extracted.
+2026-05-07 14:28:55,242 - INFO - Scraping page 29
+2026-05-07 14:29:00,843 - INFO - Page 29: 35 ads extracted.
+2026-05-07 14:29:06,053 - INFO - Scraping page 30
+2026-05-07 14:29:11,734 - INFO - Page 30: 35 ads extracted.
+2026-05-07 14:29:17,313 - INFO - Scraping page 31
+2026-05-07 14:29:22,875 - INFO - Page 31: 35 ads extracted.
+2026-05-07 14:29:27,861 - INFO - Scraping page 32
+2026-05-07 14:29:33,392 - INFO - Page 32: 35 ads extracted.
+2026-05-07 14:29:37,749 - INFO - Scraping page 33
+2026-05-07 14:29:43,565 - INFO - Page 33: 35 ads extracted.
+2026-05-07 14:29:49,106 - INFO - Scraping page 34
+2026-05-07 14:29:54,721 - INFO - Page 34: 35 ads extracted.
+2026-05-07 14:30:00,097 - INFO - Scraping page 35
+2026-05-07 14:30:05,475 - INFO - Page 35: 34 ads extracted.
+2026-05-07 14:30:11,210 - INFO - Scraping page 36
+2026-05-07 14:30:16,745 - INFO - Page 36: 35 ads extracted.
+2026-05-07 14:30:23,071 - INFO - Scraping page 37
+2026-05-07 14:30:28,646 - INFO - Page 37: 35 ads extracted.
+2026-05-07 14:30:33,945 - INFO - Scraping page 38
+2026-05-07 14:30:39,433 - INFO - Page 38: 35 ads extracted.
+2026-05-07 14:30:44,256 - INFO - Scraping page 39
+2026-05-07 14:30:49,972 - INFO - Page 39: 35 ads extracted.
+2026-05-07 14:30:55,685 - INFO - Scraping page 40
+2026-05-07 14:31:01,154 - INFO - Page 40: 35 ads extracted.
+2026-05-07 14:31:06,326 - INFO - Scraping done. Total: 1393 rows
+2026-05-07 14:31:06,327 - INFO - [Scraping] Done.
+2026-05-07 14:31:06,327 - INFO - [Staging] Starting (attempt 1)
+2026-05-07 14:31:06,525 - INFO - Staging: 1393 inserted, 0 skipped
+2026-05-07 14:31:06,525 - INFO - [Staging] Done.
+2026-05-07 14:31:06,526 - INFO - [Cleaning] Starting (attempt 1)
+2026-05-07 14:31:06,722 - INFO - Clean: 1387 inserted, 6 skipped
+2026-05-07 14:31:06,723 - INFO - [Cleaning] Done.
+2026-05-07 14:31:06,723 - INFO - [Warehouse] Starting (attempt 1)
+2026-05-07 14:31:07,287 - INFO - Staging cleared.
+2026-05-07 14:31:07,296 - INFO - Warehouse load complete.
+2026-05-07 14:31:07,296 - INFO - [Warehouse] Done.
+2026-05-07 14:31:07,296 - INFO - Pipeline completed successfully.
